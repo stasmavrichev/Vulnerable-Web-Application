@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="insight-app-sec-validation" content="3cb4613b-69aa-4600-b44b-f27daf39e4f2">
     <title>SETUP</title>
 <link rel="shortcut icon" href="Resources/hmbct.png" />
-	<meta name="insight-app-sec-validation" content="3cb4613b-69aa-4600-b44b-f27daf39e4f2">
 </head>
 <body>
   <link rel="stylesheet" href="Resources/button.css">
