@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta name="insight-app-sec-validation" content="3cb4613b-69aa-4600-b44b-f27daf39e4f2">
+	<meta name="insight-app-sec-validation" content="49cd441b-6276-4c2b-b717-ce7255b30645">
     <title>SETUP</title>
 <link rel="shortcut icon" href="Resources/hmbct.png" />
 </head>
